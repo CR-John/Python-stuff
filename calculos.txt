@@ -1,0 +1,34 @@
+Ecuacion: 1.0x^2 + -1.0x + -12.0 = 0
+Discriminante: 49.0
+Eje de Simetria: 0.5
+intersecciones con el eje x: 4.0, -3.0
+==============================================================================
+Valores ingresados: a = 1.0, b = -1.0, c = -12.0
+Discriminante: 49.0
+Resultados de x: x1 = (4.0, -3.0)
+Eje de simetria: x = 0.5
+Valor de y en el eje de simetria: y = -12.0
+==============================================================================
+Valores ingresados: a = 3.0, b = 2.0, c = 1.0
+Discriminante: -8.0
+Resultados de x: x1 = ()
+Eje de simetria: x = -0.3333333333333333
+Valor de y en el eje de simetria: y = 1.0
+==============================================================================
+Valores ingresados: a = 1.0, b = -4.0, c = 2.0
+Discriminante: 8.0
+Resultados de x: x1 = (3.414213562373095, 0.5857864376269049)
+Eje de simetria: x = 2.0
+Valor de y en el eje de simetria: y = 2.0
+==============================================================================
+Valores ingresados: a = 1.0, b = -1.0, c = -12.0
+Discriminante: 49.0
+Resultados de x: x1 = (4.0, -3.0)
+Eje de simetria: x = 0.5
+Valor de y en el eje de simetria: y = -12.0
+==============================================================================
+Valores ingresados: a = -1.0, b = 4.0, c = -3.0
+Discriminante: 4.0
+Resultados de x: x1 = (1.0, 3.0)
+Eje de simetria: x = 2.0
+Valor de y en el eje de simetria: y = -3.0

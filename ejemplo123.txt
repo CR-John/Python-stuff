@@ -1,0 +1,13 @@
+def pedir_nombre():
+        try:
+            if any(char.isdigit() for char in nombre):
+            print(f"Hola, {nombre}!")
+        except ValueError:
+ 
+    while True:
+            edad = input("Por favor, ingrese su edad: ")
+                raise ValueError
+            return edad
+            print("La edad no puede contener letras ni caracteres especiales.")
+ 
+edad = pedir_edad()
